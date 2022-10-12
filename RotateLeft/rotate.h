@@ -1,3 +1,5 @@
+#ifndef ROTATE_H
+#define ROTATE_H
 typedef unsigned long uint64;
 typedef unsigned int uint32;
 #define KEY_32_BITS             //full size of the key passed to the function 
